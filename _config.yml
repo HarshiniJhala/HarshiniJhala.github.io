@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Harshini Jhala"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Harshini Y Jhala"
 description              : &description "personal description"
 url                      : https://HarshiniJhala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
